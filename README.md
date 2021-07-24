@@ -29,3 +29,4 @@ springboot、spring security、myabtis plus、jwt、vue、element-ui
 ### 进群学习
 
 加我微信 java-mindman3，记得备注【 VueAdmin 】，我会拉群！
+
